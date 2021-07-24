@@ -1,3 +1,6 @@
+dbt test, learning purposes only
+currently using Snowflake instead of Redshift
+
 Welcome to your new dbt project!
 
 ### Using the starter project
